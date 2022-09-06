@@ -1,0 +1,10 @@
+{
+  "name": "multi-threaded-javascript-example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel"
+  },
+  "dependencies": {
+    "parcel": "^2.7.0"
+  }
+}
